@@ -192,6 +192,6 @@ export const socialMedia = [
     {
         id: 3,
         img: "/link.svg",
-        link: "https://www.linkedin.com/in/%E6%87%B7%E6%81%A9-%E5%8F%B2-2539031b3/"
+        link: "https://www.linkedin.com/in/huai-en-shih-2539031b3/"
     },
 ];
