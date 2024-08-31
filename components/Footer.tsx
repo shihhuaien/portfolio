@@ -15,7 +15,7 @@ const Footer = () => {
                 <p className="text-white-200 md:mt-10 my-4 text-center">
                     Thank you for taking the time to read through my webpage.
                     <br />
-                    Below is the link to my resume, where you'll find more detailed information about me.
+                    Below is the link to my resume, where you&apos;ll find more detailed information about me.
                 </p>
                 <a href="https://app.enhancv.com/share/36578dc6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank" >
                     <MagicButton
