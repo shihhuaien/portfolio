@@ -84,7 +84,7 @@ export const projects = [
         des: "We are preparing to move, so I created an online flea market website for everyone to buy secondhand items",
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/shad.svg", "/sanity.svg"],
-        link: "https://e-commerce-l7u8figdm-shihhuaiens-projects.vercel.app/",
+        link: "https://e-commerce-gold-beta.vercel.app/",
     },
     {
         id: 3,
@@ -100,7 +100,7 @@ export const projects = [
         des: "I wanted a personal brand website to help potential recruits get to know me, so I created this site",
         img: "/p6.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
-        link: "/ui.apple.com",
+        link: "https://tim-portfolio-mu.vercel.app/",
     },
 ];
 
@@ -182,13 +182,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        link: "https://github.com/shihhuaien"
     },
     {
         id: 2,
-        img: "/twit.svg",
+        img: "/cv.png",
+        link: "https://app.enhancv.com/share/36578dc6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"
     },
     {
         id: 3,
         img: "/link.svg",
+        link: "https://www.linkedin.com/in/%E6%87%B7%E6%81%A9-%E5%8F%B2-2539031b3/"
     },
 ];
