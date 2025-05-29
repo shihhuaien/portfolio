@@ -33,17 +33,18 @@ const Hero = () => {
 
                 <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
                     <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-                        I hold a Port of Entry (POE) letter, which allows me to work legally in Canada without requiring an LMIA
+                        Founder of THDG LLC – a Wyoming-based web platform company
                     </p>
 
                     <TextGenerateEffect
-                        words="Excel at transforming requirements into seamless web systems."
+                        words="Building scalable and maintainable digital products for global clients."
                         className="text-center text-[40px] md:text-5xl lg:text-6xl"
                     />
 
                     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                        Hi! I&apos;m Huai-En Shih. You can also call me Tim. I&apos;m a Full Stack Developer.
+                        Hi! I&apos;m Huai-En Shih (Tim), a full stack web developer based in Taiwan. I help businesses and individuals turn ideas into high-quality web applications.
                     </p>
+
 
                     <a href="#projects">
                         <MagicButton
