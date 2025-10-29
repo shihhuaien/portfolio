@@ -187,7 +187,7 @@ export const socialMedia = [
     {
         id: 2,
         img: "/cv.png",
-        link: "https://app.enhancv.com/share/36578dc6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"
+        link: "https://flowcv.com/resume/hrsvts9hn55t"
     },
     {
         id: 3,

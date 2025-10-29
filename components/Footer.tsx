@@ -17,7 +17,7 @@ const Footer = () => {
                     <br />
                     Below is the link to my resume, where you&apos;ll find more detailed information about me.
                 </p>
-                <a href="https://app.enhancv.com/share/36578dc6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank" >
+                <a href="https://flowcv.com/resume/hrsvts9hn55t" target="_blank" >
                     <MagicButton
                         title="Let's get in touch"
                         icon={<FaLocationArrow />}
