@@ -80,11 +80,11 @@ export const projects = [
     },
     {
         id: 2,
-        title: "My Portfolio",
-        des: "I wanted a personal brand website to help potential recruits get to know me, so I created this site",
-        img: "/p6.svg",
+        title: "WedSnap - Wedding Photo Sharing App",
+        des: "A wedding photo sharing iOS app with live photo wall, QR scan upload, and real-time display for guests.",
+        img: "/p-wedsnap.png",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
-        link: "https://tim-portfolio-mu.vercel.app/",
+        link: "https://wedsnap.thdg.site/",
     },
     {
         id: 3,
