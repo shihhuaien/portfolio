@@ -72,6 +72,22 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
+        title: "Powerful job tracking tool",
+        des: "Full-stack job SaaS with integrated payments, AI, and encryption. Independently designed and deployed.",
+        img: "/p5.svg",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/app.svg"],
+        link: "https://offery.thdg.site/en/",
+    },
+    {
+        id: 2,
+        title: "My Portfolio",
+        des: "I wanted a personal brand website to help potential recruits get to know me, so I created this site",
+        img: "/p6.svg",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
+        link: "https://tim-portfolio-mu.vercel.app/",
+    },
+    {
+        id: 3,
         title: "Eyelash Appointment Booking System",
         des: "My wife is training to become an eyelash technician, and I build an appointment system to support her",
         img: "/p1.svg",
@@ -79,29 +95,15 @@ export const projects = [
         link: "https://luna-studio.vercel.app/",
     },
     {
-        id: 2,
+        id: 4,
         title: "Flea Market Website",
         des: "We are preparing to move, so I created an online flea market website for everyone to buy secondhand items",
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/shad.svg", "/sanity.svg"],
         link: "https://e-commerce-gold-beta.vercel.app/",
     },
-    {
-        id: 3,
-        title: "ERP System for Enterprise",
-        des: "My company is Taiwan’s largest online teaching platform. This system is used to record and calculate salaries",
-        img: "/p5.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/app.svg"],
-        link: "https://erp-smoky.vercel.app/",
-    },
-    {
-        id: 4,
-        title: "My Portfolio",
-        des: "I wanted a personal brand website to help potential recruits get to know me, so I created this site",
-        img: "/p6.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
-        link: "https://tim-portfolio-mu.vercel.app/",
-    },
+    
+    
 ];
 
 export const testimonials = [
