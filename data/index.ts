@@ -81,7 +81,7 @@ export const projects = [
     {
         id: 2,
         title: "WedSnap - Wedding Photo Sharing App",
-        des: "A wedding photo sharing iOS app with live photo wall, QR scan upload, and real-time display for guests.",
+        des: "Couples generate QR codes for guests to upload wedding photos, displayed live on the venue screen.",
         img: "/p-wedsnap.png",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
         link: "https://wedsnap.thdg.site/",
