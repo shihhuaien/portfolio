@@ -38,8 +38,8 @@ export const gridItems = [
     },
     {
         id: 4,
-        title: "Enjoy trying new things",
-        description: "like building this website to practice Tailwind CSS",
+        title: "Passionate about web & mobile",
+        description: "from full-stack web to cross-platform mobile apps",
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClassName: "",
         titleClassName: "justify-start",
@@ -49,7 +49,7 @@ export const gridItems = [
 
     {
         id: 5,
-        title: "developing a completely new ERP system for enterprise use",
+        title: "currently building full-stack web & mobile applications",
         description: "Status update",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -59,7 +59,7 @@ export const gridItems = [
     },
     {
         id: 6,
-        title: "Please email me to discuss further",
+        title: "Based in Burnaby, BC – reach me at +1 (604) 690-8759",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClassName: "",
@@ -167,14 +167,14 @@ export const workExperience = [
     {
         id: 3,
         title: "Frontend Engineer",
-        desc: "Contributed to developing a web-based platform with React.js, improving user interactivity.",
+        desc: "Built web and mobile-friendly platforms with React.js, improving cross-device user experience.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 4,
         title: "Full Stack Developer",
-        desc: "Led the end-to-end design of the company's ERP management system, utilizing the most suitable front-end and back-end technologies.",
+        desc: "Led full-stack development of the company's web system, selecting optimal front-end and back-end technologies for end-to-end delivery.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },

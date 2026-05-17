@@ -33,16 +33,16 @@ const Hero = () => {
 
                 <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
                     <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-                        Founder of THDG LLC – a Wyoming-based web platform company
+                        Full-Stack Web & Mobile App Engineer based in Burnaby, BC
                     </p>
 
                     <TextGenerateEffect
-                        words="Building scalable and maintainable digital products for global clients."
+                        words="Building scalable web platforms and mobile apps for clients worldwide."
                         className="text-center text-[40px] md:text-5xl lg:text-6xl"
                     />
 
                     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                        Hi! I&apos;m Huai-En Shih (Tim), a full stack web developer based in Taiwan. I help businesses and individuals turn ideas into high-quality web applications.
+                        Hi! I&apos;m Huai-En Shih (Tim), a full-stack web & mobile app developer based in Burnaby, BC. I help businesses build high-quality web platforms and mobile applications.
                     </p>
 
 
