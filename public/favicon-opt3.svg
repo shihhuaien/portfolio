@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Option 3: Dev Code Style — dark bg, <T/> monospace bracket design -->
+  <rect width="64" height="64" rx="13" fill="#000319"/>
+  <!-- Left angle bracket -->
+  <text
+    x="4" y="44"
+    font-family="'Courier New', Courier, monospace"
+    font-size="28"
+    font-weight="700"
+    fill="#7C3AED"
+  >&lt;</text>
+  <!-- Center T -->
+  <text
+    x="32" y="44"
+    font-family="'Courier New', Courier, monospace"
+    font-size="28"
+    font-weight="700"
+    text-anchor="middle"
+    fill="#CBACF9"
+  >T</text>
+  <!-- Right closing bracket /> -->
+  <text
+    x="60" y="44"
+    font-family="'Courier New', Courier, monospace"
+    font-size="18"
+    font-weight="700"
+    text-anchor="end"
+    fill="#7C3AED"
+  >/&gt;</text>
+</svg>

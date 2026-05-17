@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Option 1: Elegant — serif T, dark bg, purple border -->
+  <rect width="64" height="64" rx="13" fill="#000319"/>
+  <rect x="2.5" y="2.5" width="59" height="59" rx="11" fill="none" stroke="#CBACF9" stroke-width="2" stroke-opacity="0.55"/>
+  <text
+    x="32" y="50"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="46"
+    font-weight="700"
+    text-anchor="middle"
+    fill="#CBACF9"
+  >T</text>
+</svg>
