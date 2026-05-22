@@ -59,7 +59,7 @@ export const gridItems = [
     },
     {
         id: 6,
-        title: "Based in Burnaby, BC – reach me at +1 (604) 690-8759",
+        title: "Based in Burnaby, BC – reach me at +1(672)952-5959",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClassName: "",
