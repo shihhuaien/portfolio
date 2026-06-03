@@ -73,6 +73,7 @@ export function Globe({ globeConfig, data }: WorldProps) {
     >(null);
 
     const globeRef = useRef<ThreeGlobe | null>(null);
+    const [globeReady, setGlobeReady] = useState(false);
 
     const defaultProps = {
         pointSize: 1,
@@ -96,7 +97,7 @@ export function Globe({ globeConfig, data }: WorldProps) {
             _buildData();
             _buildMaterial();
         }
-    }, [globeRef.current]);
+    }, [globeReady]);
 
     const _buildMaterial = () => {
         if (!globeRef.current) return;
@@ -221,11 +222,14 @@ export function Globe({ globeConfig, data }: WorldProps) {
         return () => {
             clearInterval(interval);
         };
-    }, [globeRef.current, globeData]);
+    }, [globeReady, globeData]);
 
     return (
         <>
-            <threeGlobe ref={globeRef} />
+            <threeGlobe ref={(ref) => {
+                globeRef.current = ref;
+                if (ref && !globeReady) setGlobeReady(true);
+            }} />
         </>
     );
 }
