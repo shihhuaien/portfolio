@@ -39,4 +39,9 @@ export default withSentryConfig(nextConfig, {
     // https://docs.sentry.io/product/crons/
     // https://vercel.com/docs/cron-jobs
     automaticVercelMonitors: true,
+
+    // Don't fail the build if Sentry's release finalization API returns an error
+    release: {
+        finalize: false,
+    },
 });
