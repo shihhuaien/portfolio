@@ -189,7 +189,8 @@ export const socialMedia = [
     {
         id: 2,
         img: "/cv.png",
-        link: "https://flowcv.com/resume/hrsvts9hn55t"
+        link: "/Resume_TimShih.pdf",
+        download: "Resume_TimShih.pdf"
     },
     {
         id: 3,

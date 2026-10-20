@@ -17,7 +17,7 @@ const Footer = () => {
                     <br />
                     Below is the link to my resume, where you&apos;ll find more detailed information about me.
                 </p>
-                <a href="https://flowcv.com/resume/hrsvts9hn55t" target="_blank" >
+                <a href="/Resume_TimShih.pdf" download="Resume_TimShih.pdf">
                     <MagicButton
                         title="Let's get in touch"
                         icon={<FaLocationArrow />}
@@ -33,6 +33,7 @@ const Footer = () => {
                         <a
                             key={info.id}
                             href={info.link}
+                            download={info.download}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
